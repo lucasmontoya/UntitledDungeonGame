@@ -1,0 +1,6 @@
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\obj\Debug\DungeonGame.csprojAssemblyReference.cache
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\bin\Debug\DungeonGame.exe.config
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\bin\Debug\DungeonGame.exe
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\bin\Debug\DungeonGame.pdb
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\obj\Debug\DungeonGame.exe
+C:\Users\seren\source\repos\DungeonGame\DungeonGame\obj\Debug\DungeonGame.pdb
